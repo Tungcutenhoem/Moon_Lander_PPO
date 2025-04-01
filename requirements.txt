@@ -1,0 +1,8 @@
+stable-baselines3==2.0.0a5
+gymnasium[box2d]
+huggingface_sb3
+pyvirtualdisplay
+imageio[ffmpeg]
+pandas==2.2.2
+numpy<2.1.0
+shimmy>=2.0
