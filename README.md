@@ -10,4 +10,14 @@
       
 2. Install Python libraries:
     + All necessary libraries are described in "requirements.txt"
-## **Explain**:
+## **Conclusion**:
+1. After run project, you will have Reinforcement Learning for Lunar Lander with good parameter.
+2. Point of this model is good. is is about 220 +- 50.
+3. You can see Video of agent to render function.
+## **Restriction**:
+1. This model works pretty well but standard deviation is quite big.
+2. Parameter are best optimized.
+## **Solution**:
+1. Optimize parameter and train model with higher learning_step.
+2. Choose better algorithm for Lunar Lander.
+
